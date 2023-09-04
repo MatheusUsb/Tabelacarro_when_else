@@ -5,7 +5,7 @@ CREATE TABLE TabelaCarros (
     marca VARCHAR(50),
     valor DECIMAL(10, 2),
     popularidade VARCHAR(20)
-);
+); 
 
 INSERT INTO TabelaCarros (carro, marca, valor)
 VALUES
